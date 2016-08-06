@@ -1,0 +1,24 @@
+_repo: Ons-Vaderland-van-de-vroegste-tijden-tot-de-15de-eeuw_11288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lievevrouw-Coopman, M.
+    birthdate: 1857
+    deathdate: 1916
+    gutenberg_agent_id: '3921'
+    url: http://www.gutenberg.org/2009/agents/3921
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11288'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Belgium -- History'
+- GITenberg
+title: Ons Vaderland van de vroegste tijden tot de 15de eeuw
+url: http://www.gutenberg.org/ebooks/11288
